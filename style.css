@@ -7,8 +7,14 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+body{
+    
+
+}
 html{
     scroll-behavior: smooth;
+   
 }
 
 /* custom scroll bar */
